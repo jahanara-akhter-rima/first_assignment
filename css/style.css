@@ -1,0 +1,38 @@
+body{background-color: #7d7a7a;
+	margin:0;
+}
+
+div{
+	width:900px;
+	background-color: #67676b;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	padding:50px;
+	color:black;
+	box-shadow: 0 2px 10px #00000054;
+}
+h1 {
+    font-size: 50px;
+    margin: 0;
+    color: bisque;
+}
+p {
+    margin: 0;
+    color: white;
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+
+ span{
+	color: #ff477a;
+    text-transform: uppercase;
+}
+b{
+	font-size: 90px;
+}
+
